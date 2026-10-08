@@ -4,8 +4,7 @@
 
 **把想法做成能运行的东西。**
 
-Python · AI / YOLO · Vibe Coding · 开源折腾
-
+生命不息，折腾不止！:D
 </div>
 
 ---

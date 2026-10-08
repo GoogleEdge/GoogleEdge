@@ -27,12 +27,6 @@
 | **Web Projects** | 网站搭建、功能迭代与 SEO 优化 |
 | **Computer Vision** | Python、图像识别与 YOLO 相关项目 |
 
-### 💡 My workflow
-
-> 想清楚要解决的问题 → 做出第一版 → 实际运行 → 根据结果继续改。
-
-我会借助 AI 加快开发，但更在意代码能不能构建、功能能不能落地，以及遇到问题后能不能定位并修好。
-
 ### 📌 Explore
 
 - 🗂️ [Browse my repositories](https://github.com/GoogleEdge?tab=repositories)

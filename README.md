@@ -1,11 +1,26 @@
-### 还没毕业，仓库已经比作业多了。
+### Hey. 👋
 
-中国大陆的中学生。
+- 🎓 : 中国大陆，中学生
+- 🐍 : Python
+- 👁️ : 图像识别，YOLO
+- 🤖 : 大模型，主力 Vibe Coding
 
-Python 最顺手。图扔给 YOLO，话扔给大模型，图像识别两边都干。
-别的语言碰过，但不拿来当名片。
+----
 
-写代码的方式很明确：Vibe Coding。
-我想清楚要什么，模型先写一版，我对着能跑的结果往下改。
+### 现在
 
-做过的东西在下面的置顶里，这里就不念名单了。
+想清楚要什么，模型先写一版，我改到它跑起来。
+
+做过的东西在下面的置顶里。
+
+----
+
+### Code Stats
+
+![GoogleEdge's github stats](https://github-readme-stats.vercel.app/api?username=GoogleEdge&show_icons=true&theme=dracula)
+
+----
+
+### 找我
+
+留言 → https://github.com/GoogleEdge/GoogleEdge/issues
